@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Beteiligungsportal//Terminvereinbarungen//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220422T091212Z
+SUMMARY:Termin  Corona-Testzentrum Universitätsstadt Freiberg
+UID:1024061@buergerbeteiligung.sachsen.de
+DTSTART:20220429T103000Z
+DTEND:20220429T104500Z
+LOCATION:Obermarkt 16\, 09599 Freiberg
+URL:https://buergerbeteiligung.sachsen.de/portal/freiberg/beteiligung/theme
+ n/1024061?buchungscode=nb4QUM87
+CLASS:PUBLIC
+CATEGORIES:EVENT
+GEO:50.917613;13.342241
+DESCRIPTION:PoC Antigen Schnelltest
+END:VEVENT
+END:VCALENDAR
